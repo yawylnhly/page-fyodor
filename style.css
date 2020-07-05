@@ -1,0 +1,29 @@
+img {
+    max-width: 90%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #a2b9bc;
+
+    text-align: center;
+    font-size: 4em;
+}
+
+p {
+    color: darkslategrey;
+    font-size: 1.5em;    
+}
+body {background-color:#d5f4e6;}
+
+#tribute-info { 
+    font-size: 1.3em;
+    color: #fefbd8);
+}
+
+a {
+    text-decoration: none;
+    color:#618685;
+}
