@@ -1,10 +1,8 @@
 img {
-    max-width: 90%;
-    display: block;
-    height: auto;
-    margin: 0 auto;
+  display: row;
+  width: 49%;
+  height: auto;
 }
-
 h1 {
     color: #133236;
     margin:auto;
