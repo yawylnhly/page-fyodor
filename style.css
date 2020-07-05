@@ -6,29 +6,41 @@ img {
 }
 
 h1 {
-    color: #a2b9bc;
+    color: #133236;
+    margin:auto;
     text-align: center;
-    font-size: 4em;
+    font-size: 5vh;
+    margin: auto;
+     width: 50%;
+    padding: 10px;
 }
 
 p {
-    color: darkslategrey;
-    font-size: 1.5em;    
-    text-align: center;
-    margin: auto;
+    color: rgb(79, 77, 47);
+    font-size: 2.5vh;    
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center
+   
 }
-body {background-color:#d5f4e6;}
+body {background-color:#bbcac2;}
 
 #tribute-info { 
-    font-size: 1.3em;
-    color: #fefbd8);
+    font-size: 3.3vh;
+    color: darkslategrey;
     max-width: 70%;
     margin:auto;
     text-align: center;
 }
 
 a {
-    text-decoration: none;
-    color:#618685;
-    margin-left: 50em;
+    font-size: 2vh;
+   align-content: center;
+   text-decoration: none;
+   text-align:center;
+   display:block; 
+   color: rgb(88, 88, 88);
+    text-align: right;
+    margin-right: 15%;
 }
+
