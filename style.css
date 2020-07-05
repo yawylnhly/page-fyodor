@@ -14,6 +14,8 @@ h1 {
 p {
     color: darkslategrey;
     font-size: 1.5em;    
+    text-align: center;
+    margin: auto;
 }
 body {background-color:#d5f4e6;}
 
